@@ -14,6 +14,6 @@ For this assignment please answer the following questions in a [Public GitHub Gi
 
 ####Please add your Gist links here in the following format:
 
-- Name:
-- Email:
-- Link:
+- Name:lucas barbula
+- Email:lucas.barbula@gmail.com
+- Link:https://gist.github.com/lbarbula/ffd2af398869157275a13441a20e645b
